@@ -1,0 +1,63 @@
+.hero {
+    padding: 110px 0px 90px 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container-centered {
+    display: flex;
+    align-items: center;
+}
+.intro_h1 {
+    font-size: 65px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 70px;
+    width: 600px;
+    letter-spacing: 3px;
+    margin-bottom: 0;
+}
+.profilephoto {
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.intro_p1 {
+    margin-top: 15px;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 41.6px;
+    text-align: left;
+    width: 450px;
+}
+.button_1 {
+    padding: 12px 24px 12px 24px;
+    border-radius: 100px;
+    background: #072047;
+    box-shadow: 4px 4px 0px 0px #F5AD84; 
+}
+.label_1 {
+    color: #FBECDD;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.86px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+.ellipse {
+    width: 494px;
+    height: 494px;
+    left: 55%;
+    top: 21%;
+    border: 2px 0px 0px 0px;
+    position: absolute;
+    border-radius: 50%;
+    border: 2px solid #072047
+}
+.indus {
+    position: relative;
+    width: 494px;
+    height: 494px;
+    border: 2px solid #072047;
+    border-radius: 50%;
+    box-shadow: 25px 25px 0px 0px #F5AD84;
+}

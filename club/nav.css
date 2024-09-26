@@ -1,0 +1,22 @@
+.nav_content {
+    display: flex;
+    align-items: center;
+}
+.nav_icons {
+    padding-left: 40%;
+}
+.nav-bar {
+    padding: 20px 160px 20px 160px;
+}
+.links {
+    padding-left: 100px;
+}
+.active {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    letter-spacing: 1px;
+    text-align: left;
+    padding-right: 30px;
+    text-decoration: none;
+}

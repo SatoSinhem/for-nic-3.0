@@ -1,0 +1,28 @@
+.gallery {
+    padding: 100px 160px 0px 160px;
+}
+.coloumn {
+    height: 588px;
+    display: flex;
+    justify-content: center;
+}
+.gallery_work {
+    padding-right: 20px;
+}
+.gallery_img {
+    width: 500px;
+}
+.gallery_under_p {
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 43.2px;
+    text-align: left;
+    margin-top: 0px;
+}
+.coloumn2 {
+    position: relative;
+    height: 588px;
+    display: flex;
+    justify-content: center;
+    bottom: 150px;
+}

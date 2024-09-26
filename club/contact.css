@@ -1,0 +1,39 @@
+.contact {
+    position: relative;
+    bottom: 150px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.background_contact {
+    background-color: #E5BA8733;
+    padding: 100px;
+}
+.contact_h2 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+}
+.contact_p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 43.2px;
+    text-align: center;
+    margin: 0;
+}
+.button_2 {
+    padding: 12px 24px 12px 24px;
+    border-radius: 100px;
+    background: #000000;
+    box-shadow: 4px 4px 0px 0px #EACAA9;
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+}
+.label_2 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21.86px;
+    letter-spacing: 1px;
+    color: #FBECDD; 
+}
